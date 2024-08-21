@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Movie Making - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Movie Making\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Screenwriting)\n  A[Learner] --&gt; C(UC: Master XXX)\n  A[Learner] --&gt; D(UC: Master YYY)\n  A[Learner] --&gt; E(UC: Master ZZZ)  \n  B --&gt; F{Abstract UC: Master Movie Making}\n  C --&gt; F{Abstract UC: Master Movie Making}\n  D --&gt; F{Abstract UC: Master Movie Making}\n  E --&gt; F{Abstract UC: Master Movie Making}"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Movie Making - Use Cases"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "screenwriting.html",
+    "href": "screenwriting.html",
+    "title": "Screenwriting",
+    "section": "",
+    "text": "About this site"
+  }
+]
