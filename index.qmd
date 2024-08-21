@@ -1,0 +1,21 @@
+---
+title: "Learning Movie Making - Use-Cases"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Master Movie Making
+
+```{mermaid}
+flowchart LR
+  A[Learner] --> B(UC: Master Screenwriting)
+  A[Learner] --> C(UC: Master XXX)
+  A[Learner] --> D(UC: Master YYY)
+  A[Learner] --> E(UC: Master ZZZ)  
+  B --> F{Abstract UC: Master Movie Making}
+  C --> F{Abstract UC: Master Movie Making}
+  D --> F{Abstract UC: Master Movie Making}
+  E --> F{Abstract UC: Master Movie Making}
+```
